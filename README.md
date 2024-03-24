@@ -4,7 +4,9 @@ This is a pytorch version of <a href="https://github.com/ermongroup/Wifi_Activit
 ## Environment
 
 GPU: NVIDIA GPU
+
 OS: Windows 10 (linux might also be okay)
+
 Package Management: conda 4.12.0 (conda is Highly recommend. Other version of conda might also be okay)
 
 ## Prerequisite
@@ -17,6 +19,7 @@ tqdm
 pandas
 ```
 You can install pytorch by the script described in <a href="https://pytorch.org/get-started/locally/">pytorch start locally</a>.
+
 You can install other packages (except pytorch related) by `pip install numpy tqdm pandas` after pytorch installed.
 
 <br/>
