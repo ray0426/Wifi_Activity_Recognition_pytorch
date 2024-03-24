@@ -17,10 +17,11 @@ pytorch==2.2.1
 numpy
 tqdm
 pandas
+jupyter
 ```
 You can install pytorch by the script described in <a href="https://pytorch.org/get-started/locally/">pytorch start locally</a>.
 
-You can install other packages (except pytorch related) by `pip install numpy tqdm pandas` after pytorch installed.
+You can install other packages (except pytorch related) by `pip install numpy tqdm pandas jupyter` after pytorch installed.
 
 <br/>
 
